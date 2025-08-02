@@ -1,0 +1,6 @@
+Stock,Quantity,Price,Investment
+AAPL,1,180,180
+TSLA,2,250,500
+AMZN,4,3500,14000
+
+Total Investment,,,14680
